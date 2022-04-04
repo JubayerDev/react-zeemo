@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: space-between;
     margin-right: 100px;
+    margin-bottom: 60px;
 }
 .container{
     margin-left: 100px;
@@ -21,4 +22,16 @@
 }
 .login-form{
     margin-top: 30px;
+    z-index: -1;
+}
+
+.how-its-works{
+    
+}
+
+
+@media screen and (max-width: 680px) {
+    .home-container{
+        flex-direction: column;
+    }
 }

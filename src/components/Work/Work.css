@@ -1,0 +1,23 @@
+.card-gid{
+    width: 350px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px;
+    box-shadow: #571194 0px 5px 15px;
+    /*shadow color rgba(0, 0, 0, 0.35) */
+}
+.card-gid h2{
+    color: #571194;
+}
+.card-gid p{
+    color: #333;
+    font-size: 16px;
+}
+.card-gid svg{
+    border: 1px solid;
+    padding: 13px;
+    border-radius: 10px;
+    color: white;
+    background-color: aqua;
+    /* margin-left: 100px; */
+}

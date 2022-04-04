@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Create An Account",
+      "desc": "You can create an account on it without any entry fees."
+    },
+    {
+      "id": 2,
+      "name": "Select A Work",
+      "desc": "You can complete the tasks in a day. There is no limit to complete the work."
+    },
+    {
+      "id": 3,
+      "name": "Complete Work",
+      "desc": "Just Done The Work And Get Paid Safely."
+    }
+]
