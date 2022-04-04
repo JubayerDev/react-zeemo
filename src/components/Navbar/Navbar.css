@@ -1,0 +1,33 @@
+nav{
+    height: 70px;
+    background-color: #590897;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+.logo{
+    margin-left: 100px;
+}
+.logo img{
+    width: 100px;
+}
+.nav-items{
+    margin-right: 100px;
+}
+.nav-items a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-weight: 500;
+}
+.login-btn{
+    padding: 10px 25px;
+    background-color: #27D8B1;
+    border: none;
+    color: white;
+    border-radius: 24px;
+    cursor: pointer;
+    font-weight: 500;
+}
