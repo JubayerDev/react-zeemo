@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Work from anywhere",
+      "desc": "Register today & start Earning Money. No matter where you work."
+    },
+    {
+      "id": 2,
+      "name": "Work at Anytime",
+      "desc": "You can work anytime and from any location."
+    },
+    {
+      "id": 3,
+      "name": "Easy Payments",
+      "desc": "The online payment options are easy, and convenient for users to use."
+    },
+    {
+      "id": 4,
+      "name": "Instant Work update",
+      "desc": "You can get an instant update of the work after completing the work."
+    }
+]

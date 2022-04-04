@@ -1,0 +1,20 @@
+.grid-content{
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 40px;
+    box-shadow: #571194 0px 5px 15px;
+}
+.grid-content h2{
+    color: #571194;
+}
+.grid-content p{
+    font-size: 16px;
+    color: #333;
+}
+.grid-content svg{
+    border: 1px solid;
+    padding: 13px;
+    border-radius: 10px;
+    color: white;
+    background-color: aqua;
+}

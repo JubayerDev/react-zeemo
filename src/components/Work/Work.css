@@ -21,3 +21,9 @@
     background-color: aqua;
     /* margin-left: 100px; */
 }
+
+@media screen and(max-width: 680px) {
+    .card-gid{
+        grid-gap: 50px;
+    }
+}

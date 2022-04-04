@@ -1,4 +1,5 @@
 import React from 'react';
+import Benifits from '../Benifits/Benifits';
 import HowItsWorks from '../HowItWorks/HowItsWorks';
 import LoginForm from '../LoginForm/LoginForm';
 import './Home.css';
@@ -27,6 +28,10 @@ const Home = () => {
             
             <div className='how-its-works'>
                 <HowItsWorks />
+            </div>
+
+            <div className="benifites-container">
+                <Benifits />
             </div>
         </div>
     );
