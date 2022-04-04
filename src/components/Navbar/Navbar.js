@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from '../../assets/logo.png';
 import './Navbar.css';
+import {HiMenuAlt1} from 'react-icons/hi'
 
 const Navbar = () => {
     return (
@@ -19,6 +20,7 @@ const Navbar = () => {
                 <Link to='/login'>
                     <button className='login-btn'>Log In</button>
                 </Link>
+                <HiMenuAlt1 size={25} color={ 'white'}/>
             </div>
         </nav>
     );
