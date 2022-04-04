@@ -1,0 +1,24 @@
+.home-container{
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+.container{
+    margin-left: 100px;
+}
+.title{
+    color: #571194;
+    font-weight: 600;
+}
+.list-texts li{
+    font-size: 18px;
+    font-weight: normal;
+    color: #333;
+    margin-bottom: 15px;
+    letter-spacing: .3px;
+}
+.login-form{
+    margin-top: 30px;
+}
