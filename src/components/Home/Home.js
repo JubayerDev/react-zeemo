@@ -1,8 +1,8 @@
 import React from 'react';
 import AppInfo from '../AppInfo/AppInfo';
 import Benifits from '../Benifits/Benifits';
-import HowItsWorks from '../HowItWorks/HowItsWorks';
 import LoginForm from '../LoginForm/LoginForm';
+import Works from '../Works/Works';
 import './Home.css';
 
 const Home = () => {
@@ -28,7 +28,7 @@ const Home = () => {
             </div>
             
             <div className='how-its-works'>
-                <HowItsWorks />
+                <Works />
             </div>
 
             <div className="benifites-container">

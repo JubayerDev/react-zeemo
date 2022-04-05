@@ -1,0 +1,11 @@
+[
+    {
+        "icon": "../src/assets/icons/user-solid.svg"
+    },
+    {
+        "icon": "../src/assets/icons/file-solid.svg"
+    },
+    {
+        "icon": "../src/assets/icons/circle-check-solid.svg"
+    }
+]
