@@ -10,7 +10,7 @@ const Home = () => {
         <div>
             <div className='home-container'>
                 <div className="work-platform container">
-                    <h1 className="title">Welcome To Online Work Platform</h1>
+                    <h1 className="title">Welcome To Online Work <span>Platform</span></h1>
                     <div className="list-texts">
                         <li>Different Type Of Work For Home.</li>
                         <li>No Any Extra Qualifications For Get Job From Here.</li>
