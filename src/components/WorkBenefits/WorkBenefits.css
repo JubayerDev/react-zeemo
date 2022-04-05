@@ -12,11 +12,39 @@
 .benifit-title{
     text-align: center;
     color: #571194;
+    margin-bottom: 100px;
 }
 .girl-content img{
     width: 60%;
     height: auto;
     margin-left: 100px;
+}
+.grid-content{
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 40px;
+    box-shadow: #571194 0px 5px 15px;
+    padding-bottom: 30px;
+}
+.grid-content h2{
+    color: #571194;
+}
+.grid-content p{
+    font-size: 16px;
+    color: #333;
+}
+.grid-content svg{
+    border: 1px solid;
+    padding: 13px;
+    border-radius: 10px;
+    color: white;
+    background-color: aqua;
+}
+.icon img{
+    width: 25px;
+    color: #fff;
+    transform: rotate(-45deg);
+    margin-top: 15px;
 }
 
 

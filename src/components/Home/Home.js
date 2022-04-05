@@ -1,7 +1,7 @@
 import React from 'react';
 import AppInfo from '../AppInfo/AppInfo';
-import Benifits from '../Benifits/Benifits';
 import LoginForm from '../LoginForm/LoginForm';
+import WorkBenefits from '../WorkBenefits/WorkBenefits';
 import Works from '../Works/Works';
 import './Home.css';
 
@@ -32,7 +32,8 @@ const Home = () => {
             </div>
 
             <div className="benifites-container">
-                <Benifits />
+                {/* <Benifits /> */}
+                <WorkBenefits />
             </div>
 
             <div className="app-info">
