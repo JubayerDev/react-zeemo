@@ -4,7 +4,7 @@ import './LoginForm.css';
 
 const LoginForm = () => {
     return (
-        <div>
+        <div className='login-wrapper'>
             <h2 className='login-title'>Login Account</h2>
             <p>Email Id</p>
             <input type="email" placeholder='Enter Email' />

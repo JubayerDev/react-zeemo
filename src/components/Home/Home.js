@@ -1,4 +1,5 @@
 import React from 'react';
+import AppInfo from '../AppInfo/AppInfo';
 import Benifits from '../Benifits/Benifits';
 import HowItsWorks from '../HowItWorks/HowItsWorks';
 import LoginForm from '../LoginForm/LoginForm';
@@ -32,6 +33,10 @@ const Home = () => {
 
             <div className="benifites-container">
                 <Benifits />
+            </div>
+
+            <div className="app-info">
+                <AppInfo />
             </div>
         </div>
     );

@@ -27,6 +27,7 @@
     .benifits-container{
         grid-template-columns: 1fr;
         margin-left: 0;
+        width: 80%;
     }
     .girl-content img{
         margin-left: 50px;
